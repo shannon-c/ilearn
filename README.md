@@ -1,1 +1,1 @@
-# ilearn
+iLearn- A free virtual 3d meeting environment
